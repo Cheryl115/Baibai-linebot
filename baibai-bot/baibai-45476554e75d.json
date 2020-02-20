@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "baibai-262905",
+  "private_key_id": "45476554e75da2d8279ccb5122059ad7831d12e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYY0ZQpv/c+IVj\ndpdeM21aMFTfssxzbMJKGIeutawxQR3n4O+HBZgEbw+p9iCZKnYsA5DGE0jDoAgv\n4BdiHBpUkcI8z3mmhOBjl+pXinJvrZe0FaAvMh78N9aQYedBzXZNDQ4M5nlbATgu\nj5wxZCJq58rmiCCO2+IDCzz54s3+0cefc6fvYFWbDDZMLkcAmhn/k8nUEy+GF72p\nvSKEQcNbQvGJ5mHaL5BfDVCQKbDDd5UHcqxsOW6NhfYDHO7YXZUF9uTh3d/de7C0\nqlVTQdRtlDbdNb7MFMXUraMFTjBUthQ2izW8x7mjRgfeDGPkeYvHuhsE7u0gvzx9\nhlD12wWZAgMBAAECggEACrS0yK9G3AMguelnvoA97z9kgxfIadaK+tIo3CMazxYM\nUBFbOqDvumYEE3R9e01Copp4hhXuP4IjeRuVAPlI90aLPyLzYLnGmvCeD9rj6cko\nFoiLaa1rhFw26ItcSCDzbfvcEBd0EKrwA8NmnYizq0+QD2yiXu7/PKgCN2sR/lQq\nSlNS+/eUFzLUGF3wodxIA4knvGELxCAUo7U2K5ZowjjlfrPpGJgnPqBiXpPv7RnR\nYkawlJAbM46tWRDXij01dUDrL2U7qxwduRbXIKbXsphSgRegTjlzIOd9RI/GF9+U\nrjAr+J3IC/Xf5iS1/lWVbtX7sLIPKEno9nZu0BF5dQKBgQDWMpvh++XLtdhQgEDT\n/36lgXvxYLZK8P6SDxuoQuULZFHNAUlV4z+JvHu4ld4bxjs0BOsFtV8RL+ekqcOf\nruM9zzzwh3+ishlX16eeom7DGvJe5XpB2I/0CxezC44ZxGTZ64s93royBtyyZCDE\njMkAbfxBRPv/Ei57uoNyMPFCLQKBgQC2IJ8nhzhtFCXwfSc0YZDHnK2XVxaMwF1A\nsED9OGRi3DsmMjcO6UKExxdekm4Gxi1v5Er4jvoR/V3FP9FKNYP5+StT9Hv0Ot34\njSLzNm9UBPh98NvBkilZtjPHTP8Ps+fx0PbeX0+IYD3q3+ZqiH0rEX42ya3apZLP\nZFCgYpEwnQKBgEVcYgoNrd4HZqK6xUNhCrvBcEc7kAw4edcGOWiFMPI9bBe8gOjl\nC6Aofs/JCAFqcaVoqkpQ7xX7s0EpEAXXdhJ/1zX0Sqp+jaJaXRcLdl6LjUyZdrt3\nyzW1mdkKtts1M4s1sQM56oVkn3bM4aeEB1qyQutH0WpJku/R99q0aouJAoGBALIu\nZibw9vZYkOmgN9vaXB++HGME083uYQ1poptaMXQ6zC+JTy5qbSaj9SwUDEraVhey\n/NoCX4t8GuJgliyJAM5txMMFXMPLV+DUi83wgqhrmIT2QLk3evcG989Td/Jv60s8\nSlmyW4gryEfit3WghPy+x4FofIt+E4yNMwhGho9NAoGBAMTSjPd6y22zM5NpxZKF\nBrSP9AxNkHq/CY7q0csLxxXhsasMR/vGd85M+TGR1TmQ7u6/9y+MIUZV03vpt5Uk\ng0FXTaggw57fV6PkmLb7jR4Zq74cx1MW3FVMIu8n2uMoeipO/2aas4vMB6crBss6\nMY77IOJuW7CMClBW/I91KGzj\n-----END PRIVATE KEY-----\n",
+  "client_email": "bai-597@baibai-262905.iam.gserviceaccount.com",
+  "client_id": "105269499330495941768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bai-597%40baibai-262905.iam.gserviceaccount.com"
+}
